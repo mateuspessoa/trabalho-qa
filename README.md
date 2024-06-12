@@ -1,1 +1,1 @@
-# cypress_qa
+# Trabalho de de QA com Cypress
